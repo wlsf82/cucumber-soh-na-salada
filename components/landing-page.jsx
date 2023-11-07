@@ -108,21 +108,21 @@ export function LandingPage() {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
-              <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Cliente 1</h3>
+              <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Simplicidade</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-300">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eu lorem et ultricies. In porta
                 lorem at dui semper, sit amet ornare nisl ullamcorper.
               </p>
             </div>
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
-              <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Cliente 2</h3>
+              <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Time responsável pelos testes</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-300">
                 Aliquam purus sit amet luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non
                 enim praesent elementum facilisis leo vel.
               </p>
             </div>
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
-              <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Cliente 3</h3>
+              <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Testes na linguagem que o time entende</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-300">
                 Vitae aliquet nec ullamcorper sit amet risus nullam eget felis eget nunc lobortis mattis aliquam
                 faucibus purus in massa tempor nec feugiat.
