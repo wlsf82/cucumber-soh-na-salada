@@ -122,6 +122,35 @@ export function LandingPage() {
           </div>
         </div>
       </section>
+      <section className="w-full py-12 md:py-24 lg:py-32 bg-white dark:bg-gray-800">
+        <div className="container px-4 md:px-6">
+          <h2 className="text-3xl font-bold tracking-tighter text-gray-800 dark:text-white sm:text-5xl mb-8">
+            Vídeos relacionados
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="aspect-w-16 aspect-h-9 overflow-hidden rounded-lg">
+              <iframe
+                width="100%"
+                height="360px"
+                src="https://youtube.com/embed/si5mSwZ_m2U?si=i1G9IZNeLSY9C1gZ"
+                // allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+                title="Cucumber só na salada"
+              />
+            </div>
+            <div className="aspect-w-16 aspect-h-9 overflow-hidden rounded-lg">
+              <iframe
+                width="100%"
+                height="360px"
+                src="https://youtube.com/embed/BGz0Nm83Xn8?si=Yb0aM_del9Li5Lqw"
+                // allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+                title="BDD é muito mais que cucumber"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
       <footer className="w-full py-4 bg-gray-800 text-center text-white">
         <p>Copyleft 😜 2023 - Talking About Testing</p>
       </footer>
