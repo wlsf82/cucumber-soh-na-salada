@@ -151,6 +151,17 @@ export function LandingPage() {
           </div>
         </div>
       </section>
+      <section className="w-full py-12 md:py-24 lg:py-32 bg-green-200 dark:bg-green-700">
+        <div className="container px-4 md:px-6 text-center">
+          <h2 className="text-3xl font-bold tracking-tighter text-gray-800 dark:text-white sm:text-5xl mb-8">
+            Compartilhe em sua rede
+          </h2>
+          <p className="max-w-[600px] mx-auto text-gray-700 dark:text-gray-300 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
+            Compartilhe esta página em suas redes sociais com as <i>hashtags</i> #CucumberSóNaSalada #EuNãoUsoCucumber e
+            #TalkingAboutTesting
+          </p>
+        </div>
+      </section>
       <footer className="w-full py-4 bg-gray-800 text-center text-white">
         <p>Copyleft 😜 2023 - Talking About Testing</p>
       </footer>
