@@ -94,7 +94,7 @@ export function LandingPage() {
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Falsa colaboração</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-300">
-                Vende-se o uso de cucumber como a solução para colaboração entre pessoas técnicas e pessoal de negócios, mas isso não se resolve com ferramentas e sim com cultura..
+                Vende-se o uso de cucumber como a solução para colaboração entre pessoas técnicas e pessoal de negócios, mas isso não se resolve com ferramentas e sim com cultura.
               </p>
             </div>
           </div>
