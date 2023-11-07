@@ -133,7 +133,6 @@ export function LandingPage() {
                 width="100%"
                 height="360px"
                 src="https://youtube.com/embed/si5mSwZ_m2U?si=i1G9IZNeLSY9C1gZ"
-                // allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
                 title="Cucumber só na salada"
               />
@@ -143,7 +142,6 @@ export function LandingPage() {
                 width="100%"
                 height="360px"
                 src="https://youtube.com/embed/BGz0Nm83Xn8?si=Yb0aM_del9Li5Lqw"
-                // allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
                 title="BDD é muito mais que cucumber"
               />
