@@ -53,7 +53,7 @@ export function LandingPage() {
                 <p
                   className="max-w-[600px] text-gray-700 dark:text-gray-300 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   Explore opções mais simples para testes de software automatizados, sem a necessidade do uso de
-                  cucumber e as palavras-chave Dado/Quando/Então.
+                  cucumber e das palavras-chave Dado/Quando/Então.
                 </p>
               </div>
               <div className="flex flex-col gap-2 min-[400px]:flex-row">
