@@ -3,7 +3,6 @@
  * @see https://v0.dev/t/MssfgqSskfT
  */
 import Link from "next/link"
-import { Button } from "@/components/ui/button"
 import Image from 'next/image'
 
 export function LandingPage() {
