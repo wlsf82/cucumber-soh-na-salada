@@ -76,28 +76,25 @@ export function LandingPage() {
         <div className="container px-4 md:px-6">
           <h2
             className="text-3xl font-bold tracking-tighter text-gray-800 dark:text-white sm:text-5xl mb-8">
-            Alternativas ao Cucumber
+            Os problemas do Cucumber
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
-              <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Opção 1</h3>
+              <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Mais software</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-300">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eu lorem et ultricies. In porta
-                lorem at dui semper, sit amet ornare nisl ullamcorper.
+                Para utilizar cucumber, mais software pre ser instalado e configurado, trazendo mais complexidade sem grandes benefícios.
               </p>
             </div>
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
-              <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Opção 2</h3>
+              <h3 className="text-xl font-semibold text-gray-800 dark:text-white">RegExp</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-300">
-                Aliquam purus sit amet luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non
-                enim praesent elementum facilisis leo vel.
+                Cucumber utiliza expressões regulares para que texto no formato Dado/Quando/Então seja interpretado para código executável. Ou seja, tem que ter código de qualquer forma.
               </p>
             </div>
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
-              <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Opção 3</h3>
+              <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Falsa colaboração</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-300">
-                Vitae aliquet nec ullamcorper sit amet risus nullam eget felis eget nunc lobortis mattis aliquam
-                faucibus purus in massa tempor nec feugiat.
+                Vende-ss o uso de cucumber como a solução para colaboração entre pessoas técnicas e pessoal de negócios, mas isso não se resolve com ferramentas e sim com cultura..
               </p>
             </div>
           </div>
