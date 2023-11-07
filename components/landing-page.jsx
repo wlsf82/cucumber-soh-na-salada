@@ -162,6 +162,10 @@ export function LandingPage() {
       </section>
       <footer className="w-full py-4 bg-gray-800 text-center text-white">
         <p>Copyleft 😜 2023 - Talking About Testing</p>
+        <br></br>
+        <Link href="https://github.com/wlsf82/cucumber-soh-na-salada">
+          <u>Veja o código no GitHub.</u>
+        </Link>
       </footer>
     </div>)
   )
