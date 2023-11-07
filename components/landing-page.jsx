@@ -22,12 +22,12 @@ export function LandingPage() {
             </Link>
             <Link
               className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-white"
-              href="#">
+              href="https://talkingabouttesting.com">
               Blog
             </Link>
             <Link
               className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-white"
-              href="#">
+              href="https://youtube.com/@TalkingAboutTesting">
               YouTube
             </Link>
           </div>
