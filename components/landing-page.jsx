@@ -11,7 +11,7 @@ export function LandingPage() {
       <nav className="bg-green-300 dark:bg-green-800 px-6 py-4">
         <div className="flex justify-between items-center">
           <a className="text-6xl font-bold text-gray-800 dark:text-white" href="#">
-            🥗
+            🥒🥗
           </a>
           <div className="space-x-4">
             <Link
