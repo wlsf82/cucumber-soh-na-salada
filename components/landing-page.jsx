@@ -88,7 +88,7 @@ export function LandingPage() {
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold text-gray-800 dark:text-white">RegExp</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-300">
-                Cucumber utiliza expressões regulares para que texto no formato Dado/Quando/Então seja interpretado para código executável. Ou seja, tem que ter código de qualquer forma.
+                Cucumber utiliza expressões regulares para que texto no formato Dado/Quando/Então seja interpretado para código executável. Ou seja, de qualquer forma código será necessário.
               </p>
             </div>
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
@@ -104,7 +104,7 @@ export function LandingPage() {
         <div className="container px-4 md:px-6">
           <h2
             className="text-3xl font-bold tracking-tighter text-gray-800 dark:text-white sm:text-5xl mb-8">
-            Depoimentos de Clientes
+            As vantagens de não usar cucumber
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
@@ -129,27 +129,6 @@ export function LandingPage() {
               </p>
             </div>
           </div>
-        </div>
-      </section>
-      <section className="w-full py-12 md:py-24 lg:py-32 bg-white dark:bg-gray-800">
-        <div className="container px-4 md:px-6">
-          <h2
-            className="text-3xl font-bold tracking-tighter text-gray-800 dark:text-white sm:text-5xl mb-8">
-            Inscreva-se para receber conteúdos exclusivos
-          </h2>
-          <form className="flex flex-col md:flex-row gap-4 items-center justify-center">
-            <input
-              aria-label="Email for subscription"
-              className="w-full md:w-auto px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:border-green-500 dark:bg-gray-700 dark:text-white dark:border-gray-600"
-              placeholder="Seu email"
-              type="email" />
-            <Button
-              className="px-8 py-2 rounded-md bg-green-500 hover:bg-green-600 text-white dark:bg-green-400 dark:hover:bg-green-300"
-              type="submit"
-              variant="default">
-              Inscrever
-            </Button>
-          </form>
         </div>
       </section>
       <footer className="w-full py-4 bg-gray-800 text-center text-white">
