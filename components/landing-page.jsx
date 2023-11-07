@@ -22,7 +22,7 @@ export function LandingPage() {
             </Link>
             <Link
               className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-white"
-              href="https://talkingabouttesting.com">
+              href="https://talkingabouttesting.com/2021/07/08/usando-dado-quando-entao-sem-cucumber-com-cypress/">
               Blog
             </Link>
             <Link
