@@ -82,7 +82,7 @@ export function LandingPage() {
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Mais software</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-300">
-                Para utilizar cucumber, mais software precisa ser instalado e configurado, trazendo mais complexidade sem grandes benefícios.
+                Para utilizar cucumber, mais software precisa ser instalado e configurado, trazendo mais complexidade (sem grandes benefícios).
               </p>
             </div>
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
@@ -94,7 +94,7 @@ export function LandingPage() {
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Falsa colaboração</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-300">
-                Vende-se o uso de cucumber como a solução para colaboração entre pessoas técnicas e pessoal de negócios, mas isso não se resolve com ferramentas e sim com cultura.
+                Vende-se o uso de cucumber como a solução para colaboração entre pessoas técnicas e pessoal de negócios, mas isso não se resolve com ferramentas e sim com cultura colaborativa.
               </p>
             </div>
           </div>
@@ -110,22 +110,19 @@ export function LandingPage() {
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Simplicidade</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-300">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod eu lorem et ultricies. In porta
-                lorem at dui semper, sit amet ornare nisl ullamcorper.
+                Ao optar por não usar cucumber, sua suite de testes automatizados será mais simples de escrever, manter e atualizar, visto que não haverá a necessidade de plugins ou softwares adicionais.
               </p>
             </div>
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Time responsável pelos testes</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-300">
-                Aliquam purus sit amet luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non
-                enim praesent elementum facilisis leo vel.
+                Sem o uso de cucumber, é mais fácil que o time de desenvolvimento se responsabilize por criar, manter e atualizar testes automatizados. A final de contas, eles são os principais beneficiários dos testes.
               </p>
             </div>
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
-              <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Testes na linguagem que o time entende</h3>
+              <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Testes em uma linguagem que o time entende</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-300">
-                Vitae aliquet nec ullamcorper sit amet risus nullam eget felis eget nunc lobortis mattis aliquam
-                faucibus purus in massa tempor nec feugiat.
+                Deixando o time escrever testes automatizados na linguagem de programação que já estão acostumados os permite desenvolver uma suite de testes robusta e otimizada, assim como o código da aplicação sendo testada.
               </p>
             </div>
           </div>
