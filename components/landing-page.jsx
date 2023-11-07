@@ -82,7 +82,7 @@ export function LandingPage() {
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Mais software</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-300">
-                Para utilizar cucumber, mais software pre ser instalado e configurado, trazendo mais complexidade sem grandes benefícios.
+                Para utilizar cucumber, mais software precisa ser instalado e configurado, trazendo mais complexidade sem grandes benefícios.
               </p>
             </div>
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
