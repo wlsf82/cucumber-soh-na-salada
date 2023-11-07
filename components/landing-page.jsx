@@ -98,7 +98,7 @@ export function LandingPage() {
         <div className="container px-4 md:px-6">
           <h2
             className="text-3xl font-bold tracking-tighter text-gray-800 dark:text-white sm:text-5xl mb-8">
-            As vantagens de não usar cucumber
+            As vantagens de não usar Cucumber
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
