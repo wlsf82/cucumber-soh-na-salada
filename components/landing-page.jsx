@@ -166,5 +166,5 @@ export function LandingPage() {
         <p>Copyleft 😜 2023 - Talking About Testing</p>
       </footer>
     </div>)
-  );
+  )
 }
