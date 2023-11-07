@@ -12,7 +12,7 @@ export function LandingPage() {
       <nav className="bg-green-300 dark:bg-green-800 px-6 py-4">
         <div className="flex justify-between items-center">
           <a className="text-2xl font-bold text-gray-800 dark:text-white" href="#">
-            Logo
+            🥗
           </a>
           <div className="space-x-4">
             <Link
