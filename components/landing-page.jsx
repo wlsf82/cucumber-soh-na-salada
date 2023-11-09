@@ -110,7 +110,7 @@ export function LandingPage() {
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Time responsável pelos testes</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-300">
-                Sem o uso de cucumber, é mais fácil que o time de desenvolvimento se responsabilize por criar, manter e atualizar testes automatizados. A final de contas, eles são os principais beneficiários dos testes.
+                Sem o uso de cucumber, é mais fácil que o time de desenvolvimento se responsabilize por criar, manter e atualizar os testes automatizados. No final de contas, eles são os principais beneficiários dos testes.
               </p>
             </div>
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg shadow-md">
