@@ -26,7 +26,7 @@ export function LandingPage() {
             </Link>
             <Link
               className="text-gray-600 dark:text-gray-300 hover:text-gray-800 dark:hover:text-white"
-              href="https://youtube.com/live/Pk3i9sh-55M?feature=share">
+              href="https://youtube.com/playlist?list=PL-eblSNRj0QFiU5K1gqN9EXvqyy3OPXvp&si=G42IZccc1vyFJi6C">
               YouTube
             </Link>
           </div>
