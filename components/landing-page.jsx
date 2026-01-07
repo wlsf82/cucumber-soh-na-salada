@@ -166,7 +166,7 @@ export function LandingPage() {
         </div>
       </section>
       <footer className="w-full py-4 bg-gray-800 text-center text-white">
-        <p>Copyleft 😜 2025 - Talking About Testing</p>
+        <p>Copyleft 😜 2026 - Talking About Testing</p>
         <br></br>
         <Link href="https://github.com/wlsf82/cucumber-soh-na-salada">
           <u>Veja o código no GitHub.</u>
